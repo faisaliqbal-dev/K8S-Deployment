@@ -7,7 +7,7 @@ This project demonstrates how to deploy an **Nginx** web server on Kubernetes us
 ---
 
 ## **Prerequisites**  
-- Kubernetes cluster (Minikube, EKS, AKS, GKE, etc.)  
+- Kubernetes cluster (Minikube)  
 - `kubectl` configured  
 
 ---
